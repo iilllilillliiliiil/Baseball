@@ -10,7 +10,7 @@
 # Tech Stack
 * Backend : Java (Servlet), JDBC
 * Frontend : JSP, HTML5, CSS3, JavaScript
-* Database : Oracle DB
+* Database : Oracle DB, H2
 * Server : Apache Tomcat
 
 # 핵심 기능
