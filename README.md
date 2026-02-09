@@ -19,7 +19,7 @@
 * 예매 프로세스 : 인원 선택 → 좌석 지정 → 결제 확인까지 이어지는 단계별 서비스 로직 구현.
 
 2. 푸드 및 굿즈 이커머스 (baseballSystem.Controller)
-* 장바구니 및 주문 : 야구장의 꽃인 '먹거리' 주문 시스템(FoodController)과 굿즈 판매 시스템(ProductController) 운영.
+* 장바구니 및 주문 : 야구장의 꽃인 먹거리 주문 시스템(FoodController)과 굿즈 판매 시스템(ProductController) 운영.
 * 결제 처리 : 장바구니 데이터를 기반으로 최종 금액을 산출하고 주문 내역을 DB에 기록.
 
 3. 관리자 대시보드 (admin)
